@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "MAMMAMIA",
+  "base_artist": "Måneskin",
+  "createdAt": "2025-12-26T08:03:54.594373Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MAMMAMIA",
+      "artist": "Måneskin",
+      "has_synced": true,
+      "path": "select/01_MAMMAMIA_Måneskin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MAMMAMIA",
+      "artist": "Måneskin",
+      "has_synced": true,
+      "path": "select/02_MAMMAMIA_Måneskin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MAMMAMIA",
+      "artist": "Måneskin",
+      "has_synced": true,
+      "path": "select/03_MAMMAMIA_Måneskin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MAMMAMIA",
+      "artist": "Måneskin",
+      "has_synced": true,
+      "path": "select/04_MAMMAMIA_Måneskin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mammamia",
+      "artist": "Måneskin",
+      "has_synced": true,
+      "path": "select/05_Mammamia_Måneskin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "MAMMAMIA (Official Video)",
+      "artist": "Måneskin",
+      "has_synced": true,
+      "path": "select/06_MAMMAMIA_(Official_Video)_Måneskin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "MAMMAMIA",
+      "artist": "Måneskin",
+      "has_synced": true,
+      "path": "select/07_MAMMAMIA_Måneskin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mammamia",
+      "artist": "Måneskin",
+      "has_synced": true,
+      "path": "select/08_Mammamia_Måneskin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "MAMMAMIA (Official Video)",
+      "artist": "Måneskin",
+      "has_synced": true,
+      "path": "select/09_MAMMAMIA_(Official_Video)_Måneskin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "MAMMAMIA (Official Video)",
+      "artist": "Video • Måneskin",
+      "has_synced": true,
+      "path": "select/10_MAMMAMIA_(Official_Video)_Video_•_Måneskin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "MAMMAMIA",
+      "artist": "Måneskin",
+      "has_synced": true,
+      "path": "select/11_MAMMAMIA_Måneskin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "MAMMAMIA",
+      "artist": "Måneskin",
+      "has_synced": true,
+      "path": "select/12_MAMMAMIA_Måneskin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "MAMMAMIA",
+      "artist": "Video • Måneskin",
+      "has_synced": true,
+      "path": "select/13_MAMMAMIA_Video_•_Måneskin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAMMAMIA",
+      "artist": "Måneskin",
+      "has_synced": false,
+      "path": "select/pl_01_MAMMAMIA_Måneskin.txt"
+    }
+  ]
+}
